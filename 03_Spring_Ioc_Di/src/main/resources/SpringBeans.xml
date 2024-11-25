@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- bean definitions here -->
+	<bean id="eng" class="in.ahmed.beans.Engine"></bean>
+	<bean id="ca" class="in.ahmed.beans.Car">
+		<property name="engine" ref="eng"></property>
+		<constructor-arg name="engine"  ref="eng"></constructor-arg>
+	</bean>
+</beans>

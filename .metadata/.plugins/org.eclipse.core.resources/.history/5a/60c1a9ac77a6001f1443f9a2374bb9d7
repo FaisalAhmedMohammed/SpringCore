@@ -1,0 +1,13 @@
+package in.ahmed.beans;
+
+import in.ashokit.beans.IBookDao;
+
+public class BookDao implements IBookDao {
+
+	@Override
+	public void insert(Integer bookid, String bookname, Double price) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

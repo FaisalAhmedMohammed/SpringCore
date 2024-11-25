@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;in.ashokit.Test&apos; to &apos;in.ahmed.Test&apos;&#x0D;&#x0A;- Original project: &apos;07_Spring_Jdbc&apos;&#x0D;&#x0A;- Original element: &apos;07_Spring_Jdbc/src/main/java/in.ashokit.Test&apos;&#x0D;&#x0A;- Renamed element: &apos;07_Spring_Jdbc/src/main/java/in.ahmed.Test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;in.ashokit.Test&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ashokit.Test" name="in.ahmed.Test" patterns="*" qualified="true" references="true" stamp="1732519124592" textual="true" version="1.0"/>
+</session>

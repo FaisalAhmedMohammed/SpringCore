@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;in.ashok&apos; to &apos;in.ahmed&apos;&#x0D;&#x0A;- Original project: &apos;04_SingleTon_Project&apos;&#x0D;&#x0A;- Original element: &apos;04_SingleTon_Project/src/in.ashok&apos;&#x0D;&#x0A;- Renamed element: &apos;04_SingleTon_Project/src/in.ahmed&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;in.ashok&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;in.ashok" name="in.ahmed" patterns="*" qualified="true" references="true" stamp="1732518774118" textual="true" version="1.0"/>
+</session>

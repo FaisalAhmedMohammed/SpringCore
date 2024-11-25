@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="in.ashokit.Beans.Desiel_Engine"/>
+    <fullyQualifiedTypeName name="javax.management.InvalidApplicationException"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.CngEngine"/>
+    <fullyQualifiedTypeName name="com.ashokit.cons.Constructor"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.PwdService"/>
+    <fullyQualifiedTypeName name="java.util.Base64"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.IEngine"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.Car"/>
+    <fullyQualifiedTypeName name="java.lang.Readable"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.Restuarant"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.IPayment"/>
+    <fullyQualifiedTypeName name="in.ashok.DateUtils"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.InaccessibleObjectException"/>
+    <fullyQualifiedTypeName name="java.lang.SecurityException"/>
+    <fullyQualifiedTypeName name="in.Singleton.SingleTonClasss"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.PetrolEngine"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.ATM"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.IUserDao"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.IEmalService"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.IPwdService"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.UserService"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="in.ahmed.Motor"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.aot.AotApplicationContextInitializer"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.BookService"/>
+    <fullyQualifiedTypeName name="org.springframework.jndi.JndiTemplateEditor"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="in.ahmed.beans.BookService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,17 @@
+package in.ahmed.beans;
+
+import org.springframework.jdbc.core.JdbcTemplate;
+
+import in.ashokit.beans.IBookDao;
+
+public class BookDao implements IBookDao {
+	private JdbcTemplate jdbctemplete;
+
+	@Override
+	public void insert(Integer bookid, String bookname, Double price) {
+		
+		String query="insert into  Book values(?,?,?)";
+
+	}
+
+}

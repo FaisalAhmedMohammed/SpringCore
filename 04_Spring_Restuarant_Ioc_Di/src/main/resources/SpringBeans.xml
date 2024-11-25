@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<bean id="credit" class="in.ahmed.beans.CreditCard"/>
+
+
+<bean id="debit" class="in.ahmed.beans.DebitCard"/>
+
+
+<bean id="upi" class="in.ahmed.beans.Upi"/>
+
+<bean id="res" class="in.ahmed.beans.Restuarant">
+
+<constructor-arg  name="ip" ref="credit"></constructor-arg>
+
+
+
+</bean>
+</beans>
